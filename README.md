@@ -1,3 +1,2 @@
-# Recipes
-Creation of a recipes website using only HTML.
-
+Recipes
+Recipes webiste using html, following git workflow to keep track of the work done
